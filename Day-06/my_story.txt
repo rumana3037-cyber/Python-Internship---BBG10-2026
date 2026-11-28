@@ -1,0 +1,4 @@
+I want to build automation scripts with Python.
+I want to become confident in backend web development.
+I want to solve real-world problems cleanly using code.
+2026-07-22
