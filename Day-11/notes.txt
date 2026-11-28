@@ -1,0 +1,1 @@
+These are sample notes for Day 11 pathlib task.
